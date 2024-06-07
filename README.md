@@ -21,9 +21,4 @@ Obtivemos um e-book de qualidade, com um conteúdo interessante e didático.
 
 ```
 
-### Exemplos e Insigths
-
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
